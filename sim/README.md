@@ -7,3 +7,6 @@ You can then compare their "goodness" in terms of accuracy, precision and delays
 The simulator is written and tested on Octave, an opensource alternative to Matlab.
 
 You can download Octave here : https://octave.org/download
+
+Output example :
+![image](https://github.com/asportil/thermistors/assets/70268292/5e0265ef-b0df-46d6-9cd6-fa0cc7254219)
