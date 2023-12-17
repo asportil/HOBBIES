@@ -1,4 +1,4 @@
-/!\ This repository is a work in progress, until this banner is removed :!\
+/!\ This repository is a work in progress, until this banner is removed /!\
 
 # THERMISTORS
 You are a student, young engineer or just curious about thermistors and you want to use one in your hobby project.
