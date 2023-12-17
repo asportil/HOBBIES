@@ -1,3 +1,5 @@
+/!\ This repository is a work in progress, until this banner is removed :!\
+
 # THERMISTORS
 You are a student, young engineer or just curious about thermistors and you want to use one in your hobby project.
 Here I can share with you some of the knowledge I've gather by working with thermistors in different projects (research and hobbies).
