@@ -16,7 +16,7 @@ The Steinhart-Hart model is a mathemetical model that help describing the relati
 
 $$
 \begin{equation}
-  \frac{1}{T} = A + B ln(R) + C  \left(ln(R) \right)^3
+  \frac{1}{T} = A + B\  ln(R) + C\   \left(ln(R) \right)^3
 \end{equation}
 $$
 
@@ -25,15 +25,26 @@ By carefully selecting A, B, C we can get a simplified model, also known as Beta
 
 $$
 \begin{equation}
-  \frac{1}{T} = \frac{1}{T_0} + \frac{1}{\beta} ln(\frac{R}{R_0}) 
+  \frac{1}{T} = \frac{1}{T_0} + \frac{1}{\beta} \  ln\left( \frac{R}{R_0} \right) 
 \end{equation}
 $$
 
-We need to focus on (at least) 2 aspects : 
--1 How do we measure the resistance of a thermistor?
--2 How do we transform it in a temperature value?
--3 How do we assess the uncertainties ?
+where the coefficients have been selected : 
 
+$$
+\begin{equation}
+\begin{aligned}
+A & =   \frac{1}{T_0} + \frac{1}{\beta} ln(R) \\
+B & = \frac{1}{\beta} \\
+C & = 0 \\
+\end{aligned}
+\end{equation}
+$$
+
+We need to focus on (at least) 3 aspects : 
+- How do we measure the resistance of a thermistor?
+- How do we transform it in a temperature value?
+- How do we assess the uncertainties ?
 
 
 
